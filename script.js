@@ -5,5 +5,21 @@
 // console.log(studentData[0])
 
 
+// --- Objects ---- //
+// now every value have key (10 have called roll(value));
+
+// var studentData = {
+//     name:"Huzaifa",
+//     age:17,
+//     gender:'male',
+//     roll:10
+// }
+
+// console.table(studentData);
+
+
+
+
+
 
 
