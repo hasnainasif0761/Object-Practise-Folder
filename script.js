@@ -77,10 +77,25 @@
 // console.log(obj.name);
 
 
+// var arr = new Array; // New Use Constracter
+
+// arr[0] = "huzaifa"
+// arr[1] = "Asif"
+// arr[2] = "Hasnain"
+// arr[3] = "Hassan"
+
+// console.log(arr)
 
 
 
 
+// var obj = {
+//     name:"ali",
+//     age:30
+// };
+// obj.roll = 10;
+
+// console.log(obj)
 
 
 
