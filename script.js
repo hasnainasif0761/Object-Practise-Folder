@@ -94,8 +94,16 @@
 //     age:30
 // };
 // obj.roll = 10;
+// obj.bio = undefined;
 
-// console.log(obj)
+// delete obj.bio
+
+// console.table(obj)
+
+
+
+
+
 
 
 
