@@ -98,7 +98,7 @@
 
 // delete obj.bio
 
-// console.table(obj)
+// console.table("name" in obj)
 
 
 // var obj = {
@@ -111,6 +111,16 @@
 //     console.log("Key is=>",key,"Value is =>",obj[key]);
 // }
 
+
+// var obj = {
+//     name:'ali',
+//     age:20,
+//     func:()=>{
+//         console.log("Hello World");
+//     }
+// }
+
+// console.log(obj.car)
 
 
 
