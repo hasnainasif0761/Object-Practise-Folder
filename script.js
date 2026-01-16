@@ -101,6 +101,16 @@
 // console.table(obj)
 
 
+// var obj = {
+//     name:"ali",
+//     age:20,
+//     roll:101
+// }
+
+// for(var key in obj){
+//     console.log("Key is=>",key,"Value is =>",obj[key]);
+// }
+
 
 
 
