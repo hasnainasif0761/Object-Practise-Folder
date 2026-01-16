@@ -67,6 +67,19 @@
 // console.log(student.car.fuelAverage.low);
 
 
+// var obj = new Object;
+
+// obj.name = "ali";
+// obj.age = 17,
+// obj.roll = 101
+
+// console.log(obj);
+// console.log(obj.name);
+
+
+
+
+
 
 
 
