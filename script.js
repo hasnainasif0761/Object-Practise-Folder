@@ -33,18 +33,19 @@
 
 // console.log(student.subject[2]);
 
-
+// var name = "huzaifa";
 
 // var student = {
 //     name : "ali",
 //     age: 10,
 //     subject: ["math","science","english"],
-//     bio: function (){
-//         console.log("hello World");
+//     bio:()=>{
+//         console.log(this.name)
 //     }
 // }
 
-// console.log(student.bio);
+// console.log(student.bio());
+// console.log(student.subject);
 
 
 
