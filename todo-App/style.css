@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     font-family: "Poppins", sans-serif;
+}
+body,html
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to bottom right,#a59af1a7,#130580,#0c14a0,#a59af1a7);
+}
+.form
+{
+    width: 400px;
+    height: 300px;
+    background: #222;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.form h2
+{
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+.form input
+{
+    width: 90%;
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+.form button
+{
+    padding: 10px 20px;
+    background: lightskyblue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.form button:active
+{
+    transform: scale(1.1);
+}
+.form a
+{
+    color: red;
+}
+.container-student-view
+{
+    width: 80%;
+    height: 400px;
+    background-color: #222;
+    border-radius: 10px;
+}
+.student-add-view
+{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 0px 10px;
+}
+.student-add-view h2
+{
+    color: #fff;
+}
+.student-add-view button
+{
+    padding: 5px 10px;
+    background: rgb(74, 172, 237);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 17px;
+    color: #fff;
+}
+.student-add-view button:active
+{
+    transform: scale(1.1);
+}
+.student-add-view button i
+{
+    font-size: 18px;
+    color: #fff;
+}
+table
+
+{
+    width: 100%;
+    border-collapse: collapse;
+}
+thead 
+{
+    background: #e1dfdf;
+    color: #000;
+}
+th,td
+{
+    padding: 8px;
+    text-align: center;
+    border: 2px solid #222;
+}
+tbody tr:nth-child(even)
+{
+    background: #e1dfdf;
+}

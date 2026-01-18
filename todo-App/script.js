@@ -1,1 +1,3 @@
-alert('Hello World');
+var student = JSON.parse(localStorage.getItem('student')) || [];
+
+
